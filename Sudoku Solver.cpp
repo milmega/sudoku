@@ -5,7 +5,6 @@ using namespace std;
 
 vector <int> boxes[10];
 
-//function 
 int whichBox(int x, int y)
 {
 	if (x < 3)
